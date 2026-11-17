@@ -1,7 +1,7 @@
 # Examen — Biblioteca musical
 
 **Cátedra:** 00.     184 — Algoritmos y Estructuras de Datos  
-**Cuatrimestre:** C2 2026  
+**Cuatrimestre:** C2 2026    
 **Tema:** Biblioteca musical  
 **Lenguaje:** Python 3  
 **Puntaje:** 100 puntos. La nota sobre 10 es `puntos / 10`. Se aprueba con 60 puntos.
