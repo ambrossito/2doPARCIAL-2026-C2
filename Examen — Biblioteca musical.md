@@ -1,6 +1,6 @@
 # Examen — Biblioteca musical
 
-**Cátedra:** 00184 — Algoritmos y Estructuras de Datos  
+**Cátedra:** 00.     184 — Algoritmos y Estructuras de Datos  
 **Cuatrimestre:** C2 2026  
 **Tema:** Biblioteca musical  
 **Lenguaje:** Python 3  
